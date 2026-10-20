@@ -1,0 +1,13 @@
+# athenaea
+
+Index / Search / Browse service for nbprint
+
+[![Build Status](https://github.com/nbprint/athenaea/actions/workflows/build.yaml/badge.svg?branch=main&event=push)](https://github.com/nbprint/athenaea/actions/workflows/build.yaml)
+[![codecov](https://codecov.io/gh/nbprint/athenaea/branch/main/graph/badge.svg)](https://codecov.io/gh/nbprint/athenaea)
+[![License](https://img.shields.io/github/license/nbprint/athenaea)](https://github.com/nbprint/athenaea)
+[![PyPI](https://img.shields.io/pypi/v/athenaea.svg)](https://pypi.python.org/pypi/athenaea)
+
+## Overview
+
+> [!NOTE]
+> This library was generated using [copier](https://copier.readthedocs.io/en/stable/) from the [Base Python Project Template repository](https://github.com/python-project-templates/base).
